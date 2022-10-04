@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/deepti-arunachalam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;&nbsp;&nbsp;
      </a>
+  <a href="">
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">&nbsp;&nbsp;&nbsp;
+  </a>
   <a href="mailto:arunachalam.deepti@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">&nbsp;&nbsp;&nbsp;
     </a>
