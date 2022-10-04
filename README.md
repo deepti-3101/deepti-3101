@@ -1,4 +1,7 @@
-<H1>Yoo👋, I’m deepti!</H1>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<H1>Yoo <span class="wave">👋</span>, I’m deepti!</H1>
 
 <div id="header" >
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150"/>&nbsp;&nbsp;&nbsp;
