@@ -28,7 +28,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 👨🏻‍💻   Some of my projects are available on Github <br>
 💬   Ask me about anything tech related, I am happy to help <br>
 📫   Feel free to ping me on LinkedIn <br>
-📚   When I am free, I read mystry and fiction novels. <br>
+📚   When I am free, I read mystery and fiction novels. <br>
 
 <br><br><br>
 <H2>🔨 Languages and Tools :</H2>
