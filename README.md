@@ -1,4 +1,4 @@
-<H1>👋 Hi, I’m deepti</H1>
+<H1>Yoo👋, I’m deepti!</H1>
 
 <div id="header" >
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150"/>&nbsp;&nbsp;&nbsp;
