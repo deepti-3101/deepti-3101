@@ -1,22 +1,16 @@
 <H1>👋 Hi, I’m deepti</H1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="230"/>
-  <br>
-</div>
-
-<div id="badges" align="center">
+<div id="header" >
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150"/>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/deepti-arunachalam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;&nbsp;&nbsp;
      </a>
   <a href="mailto:arunachalam.deepti@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">&nbsp;&nbsp;&nbsp;
     </a>
-  <br>
   <img src="https://komarev.com/ghpvc/?username=deepti-3101&style=flat-square&color=blue" alt=""/>
 </div>
-
-
+<hr>
 
 - 👀 I’m interested in programming of all sorts
 - 💞️ I’m looking to collaborate on any cool front end projects
