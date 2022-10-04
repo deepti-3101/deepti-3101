@@ -1,7 +1,7 @@
 <H1>👋 Hi, I’m deepti</H1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="230"/>
   <br>
 </div>
 
