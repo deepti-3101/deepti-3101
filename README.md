@@ -12,9 +12,18 @@
 </div>
 <hr>
 
-- 👀 I’m interested in programming of all sorts
-- 💞️ I’m looking to collaborate on any cool front end projects
-- 📫 Reach me through linkedin.com/in/deepti-arunachalam-226b14218
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, Designer 🎨 or beginner level ML Engineer 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+<br><br>
+<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350">
+
+<H2>🧐 More About Me:</H2>
+🔭   I’m currently working on Unity <br>
+🤝   I’m looking to collaborate on Python projects <br>
+🌱   I’m currently learning Typescript <br>
+👨🏻‍💻   Some of my projects are available on Github <br>
+💬   Ask me about anything tech related, I am happy to help <br>
+📫   Feel free to ping me on LinkedIn <br>
+📚   When I am free, I read mystry and fiction novels. <br>
 
 <H2>🔨 Languages and Tools :</H2>
 
