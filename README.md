@@ -22,7 +22,7 @@
 - 💞️ I’m looking to collaborate on any cool front end projects
 - 📫 Reach me through linkedin.com/in/deepti-arunachalam-226b14218
 
-Languages and Tools :
+<H2>🔨 Languages and Tools :</H2>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
