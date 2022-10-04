@@ -53,9 +53,9 @@
 
 </div>
 
+<br>
 
-
-📊 My Stats : <br>
+<H2>📊 My Stats :</H2> <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deepti-3101&theme=windows-dark&border_radius=5.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
