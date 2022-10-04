@@ -4,17 +4,17 @@
 <H1>Yoo <span class="wave">👋</span>, I’m deepti!</H1>
 
 <div id="header" >
-  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="130"/>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/deepti-arunachalam/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  width="100" alt="LinkedIn Badge"/>&nbsp;&nbsp;&nbsp;
      </a>
   <a href="mailto:arunachalam.deepti@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" width="77.8" alt="Gmail Badge">&nbsp;&nbsp;&nbsp;
     </a>
     <a href="https://github.com/deepti-3101?tab=repositories">
-  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" width="100" alt="GitHub Badge">&nbsp;&nbsp;&nbsp;
   </a>
-  <img src="https://komarev.com/ghpvc/?username=deepti-3101&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=deepti-3101&style=flat-square&color=blue" width="130" alt=""/>
 </div>
 <hr>
 
