@@ -13,10 +13,9 @@
 <hr>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, Designer 🎨 or beginner level ML Engineer 🤖 ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
-<br><br>
+<br>
 <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350">
-
-<H2>🧐 More About Me:</H2>
+<H2>🧐 More About Me :</H2>
 🔭   I’m currently working on Unity <br>
 🤝   I’m looking to collaborate on Python projects <br>
 🌱   I’m currently learning Typescript <br>
