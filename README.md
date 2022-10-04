@@ -1,3 +1,5 @@
+<H1>👋 Hi, I’m deepti</H1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="100"/>
   <br>
@@ -15,7 +17,7 @@
 </div>
 
 
-- 👋 Hi, I’m deepti
+
 - 👀 I’m interested in programming of all sorts
 - 💞️ I’m looking to collaborate on any cool front end projects
 - 📫 Reach me through linkedin.com/in/deepti-arunachalam-226b14218
